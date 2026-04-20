@@ -21,18 +21,14 @@ Me chamo Esley Bertoldo, tenho 17 anos e sou de natural de Coruripe - Alagoas. C
 </a>
 </p>
 
-
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBzOHlubDJjMTdueHBxY3dodnB2anNpczdqazkwcnFzbmxxZTExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="200px" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBzOHlubDJjMTdueHBxY3dodnB2anNpczdqazkwcnFzbmxxZTExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="250px" />
   <br />
   <br />
   <hr />
 </div>
 
-
-
-
-
+<br/>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -122,12 +118,13 @@ Me chamo Esley Bertoldo, tenho 17 anos e sou de natural de Coruripe - Alagoas. C
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" 
 />
 
-
-
+<br/>
 <br/>
 <br/>
 
 ---
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Esley-Bertoldo/Esley-Bertoldo/output/pacman-contribution-graph-dark.svg">
