@@ -38,8 +38,13 @@ Também estou em constante evolução em tecnologias como Docker e computação 
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
+**Conceitos & Arquiteturas:**
 <p align="left">
-  <b>Conceitos & Arquiteturas:</b> APIs REST, Microservices, MVC, JPA / Hibernate.
+  <img src="https://img.shields.io/badge/APIs_REST-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVC-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JPA_%2F_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 </p>
 
 ### ☁️ DevOps & Cloud
