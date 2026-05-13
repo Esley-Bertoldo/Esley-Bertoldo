@@ -1,9 +1,11 @@
-<h1 align="center">Olá, me chamo Esley Bertoldo! 👨‍💻☕️</h1>
+<h1 align="center">Olá, me chamo Esley Bertoldo! </h1>
 
 <h3 align="center">Computer Science Student | Backend Developer</h3>
 <p align="center">
   <i>Java | Spring Boot | REST APIs | SQL | NoSQL | Docker | AWS | Microservices</i>
 </p>
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Esley-Bertoldo" target="_blank">
