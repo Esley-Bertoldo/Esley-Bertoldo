@@ -2,7 +2,7 @@
 
 <h3 align="center">Estudante de Ciência da Computação | Desenvolvedor Backend | Técnico em Mecânica</h3>
 <p align="center">
-  <i>Java | Spring Boot | MySQL | HTML/CSS/JS | Python | C++ | Firebase | Git</i>
+  <i>Java | Spring Boot | MySQL | HTML/CSS/JS | Git</i>
 </p>
 
 <p align="center">
