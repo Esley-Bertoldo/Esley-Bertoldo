@@ -1,17 +1,15 @@
 <h1 align="center">Olá, me chamo Esley Bertoldo! </h1>
 
-<h3 align="center">Computer Science Student | Backend Developer</h3>
+<h3 align="center">Estudante de Ciência da Computação | Desenvolvedor Backend | Técnico em Mecânica</h3>
 <p align="center">
-  <i>Java | Spring Boot | REST APIs | SQL | NoSQL | Docker | AWS | Microservices</i>
+  <i>Java | Spring Boot | MySQL | HTML/CSS/JS | Python | C++ | Firebase | Git</i>
 </p>
 
-
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/Esley-Bertoldo" target="_blank">
+  <a href="https://www.linkedin.com/in/esley-bertoldo" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:esleybertoldo32@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/Esley-Bertoldo" target="_blank">
@@ -23,50 +21,46 @@
 
 ## 🎯 Sobre mim & Objetivos
 
-Busco oportunidade de estágio para aplicar na prática conhecimentos em desenvolvimento de software, especialmente na construção de APIs REST com Spring Boot, integração com banco de dados SQL (PostgreSQL) e versionamento de código com Git. 
+Sou estudante do 2º período de Ciência da Computação (UNINASSAU).  Busco uma oportunidade de estágio para aplicar na prática meus conhecimentos em desenvolvimento de software, especialmente no ecossistema Java (Spring Boot) e bancos de dados (MySQL, NoSQL). 
 
-Também estou em constante evolução em tecnologias como Docker e computação em nuvem com AWS, buscando compreender o ciclo completo de desenvolvimento, desde a implementação até o deploy de aplicações. Tenho forte interesse em boas práticas de desenvolvimento, arquitetura de sistemas e aprendizado contínuo, com o objetivo de crescer profissionalmente na área de tecnologia e contribuir com soluções eficientes.
+Tenho experiência prática com projetos reais através da Nexa Tech (desenvolvimento web com HTML, CSS e JavaScript). Também atuei em Iniciação Científica, unindo hardware e software (C++, Python, Arduino e Sensores) para criar soluções de IoT e Manutenção Preditiva. Sou apaixonado por tecnologia e busco aprendizado contínuo para crescer profissionalmente como Desenvolvedor Backend / Software.
 
 ---
 
 ## 💻 Hard Skills
 
-### ⚙️ Backend
+### ⚙️ Backend & Dados
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-**Conceitos & Arquiteturas:**
+### 🌐 Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/APIs_REST-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MVC-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JPA_%2F_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
-### ☁️ DevOps & Cloud
+### 🔧 Outras Linguagens & Ferramentas
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### 🔄 Metodologias Ágeis
-<p align="left">
-  <img src="https://img.shields.io/badge/Scrum-0058A6?style=for-the-badge&logo=scrum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 ---
 
-## 📜 Certificações 
+## 📜 Certificações & Cursos
 
-* **Java:** JAVA POO - Udemy
-
+* **Oracle Java Foundations** - Oracle
+* **Banco de Dados MySQL** - Curso em Vídeo
+* **Java POO** - Udemy / Curso em Vídeo
+* **Algoritmos e Lógica de Programação** - Curso em Vídeo
+* **HTML5 e CSS3** - Curso em Vídeo
 
 ---
