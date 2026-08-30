@@ -45,7 +45,7 @@ Tenho experiência prática com projetos reais através da Nexa Tech (desenvolvi
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
-### 🔧 Outras Linguagens & Ferramentas
+### 🔧 Outras Linguagens & Ferramentas que já utilizei
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
