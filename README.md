@@ -1,8 +1,8 @@
 <h1 align="center">Olá, me chamo Esley Bertoldo! </h1>
 
-<h3 align="center">Estudante de Ciência da Computação | Desenvolvedor Backend | Técnico em Mecânica</h3>
+<h3 align="center">Estudante de Ciência da Computação | Desenvolvedor Backend</h3>
 <p align="center">
-  <i>Java | Spring Boot | MySQL | HTML/CSS/JS | Git</i>
+  <i>Java | Spring Boot | MySQL | Git</i>
 </p>
 
 <p align="center">
