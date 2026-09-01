@@ -55,7 +55,7 @@ Tenho experiência prática com projetos reais através da Nexa Tech (desenvolvi
 
 ---
 
-## 📜 Certificações & Cursos
+## 📜Cursos
 
 * **Oracle Java Foundations** - Oracle
 * **Banco de Dados MySQL** - Curso em Vídeo
